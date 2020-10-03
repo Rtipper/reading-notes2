@@ -2,7 +2,7 @@
 
 ## Table of Contents
 - [PreClass Reading Notes](preclass.md)
-- [Class 02 Reading Notes](class-02.md)
+- [Class 02 Reading Notes](notes-02.md)
 - [Class 03 Reading Notes](notes-03.md)
 - Class 4
 - Class 5
