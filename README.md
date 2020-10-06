@@ -4,7 +4,7 @@
 - [PreClass Reading Notes](preclass.md)
 - [Class 02 Reading Notes](notes-02.md)
 - [Class 03 Reading Notes](notes-03.md)
-- Class 4
+- [Class 04 Reading Notes](notes-04.md)
 - Class 5
 - Class 6
 - Class 7
