@@ -26,3 +26,8 @@ email to someone
 - Grids help create professional and flexible designs.
 - CSS Frameworks provide rules for common tasks.
 - You can include multiple CSS files in one page.
+
+### Chpt 3 - 
+- Functions & Methods: Functions consist of a series of statements that habe been grouped together because they perform a specific task. A method is the same as a function, except methods are created inside (and are part of) an object.
+- Objects: Programmers use obsjects to create models of the world using data, and that objexts are made up of properties and methods.
+- Built-In Objects: The browser comes with a set of objects that act like a toolkit for creating interactive web pages.
