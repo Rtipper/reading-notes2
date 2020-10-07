@@ -8,6 +8,14 @@
 email address in the "to" field.
 - You can use the id attribute to target elements within
 a page that can be linked to.
+- Common types of links: 
+- Links from one website to another
+- Links from one page to another on the same website
+- Links from one part of a web page to another part of the
+same page
+- Links that open in a new browser window
+- Links that start up your email program and address a new
+email to someone
 
 ### Chpt 15 - Layout
 - "div" elements are often used as containing elements to group together sections of a page.
