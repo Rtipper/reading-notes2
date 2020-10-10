@@ -5,7 +5,7 @@
 - [Class 02 Reading Notes](notes-02.md)
 - [Class 03 Reading Notes](notes-03.md)
 - [Class 04 Reading Notes](notes-04.md)
-- Class 5
+- [Class 05 Reading Notes](notes-05.md)
 - Class 6
 - Class 7
 - Class 8
