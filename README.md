@@ -11,7 +11,7 @@
 - [Class 08 Reading Notes](notes-08.md)
 - [Class 09 Reading Notes](notes-09.md)
 - [Class 10 Reading Notes](notes-10.md)
-- Class 11
+- [Class 11 Reading Notes](notes-11.md)
 - Class 12
 - Class 13
 - Class 14
