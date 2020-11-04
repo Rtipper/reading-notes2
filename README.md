@@ -12,7 +12,7 @@
 - [Class 09 Reading Notes](notes-09.md)
 - [Class 10 Reading Notes](notes-10.md)
 - [Class 11 Reading Notes](notes-11.md)
-- Class 12
+- [Class 12 Reading Notes](notes-12.md)
 - Class 13
 - Class 14
 - Class 15
