@@ -13,6 +13,6 @@
 - [Class 10 Reading Notes](notes-10.md)
 - [Class 11 Reading Notes](notes-11.md)
 - [Class 12 Reading Notes](notes-12.md)
-- [Class 1 Reading Notes](notes-13.md)
+- [Class 13 Reading Notes](notes-13.md)
 - Class 14
 - Class 15
