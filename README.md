@@ -14,5 +14,5 @@
 - [Class 11 Reading Notes](notes-11.md)
 - [Class 12 Reading Notes](notes-12.md)
 - [Class 13 Reading Notes](notes-13.md)
-- Class 14
-- Class 15
+- [Class 14a Reading Notes](notes-14a.md)
+- [Class 14b Reading Notes](notes-14b.md)
