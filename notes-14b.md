@@ -1,0 +1,21 @@
+# Reading Notes 14b - What Google Learned Article
+- 
+- Working in groups can sometimes be a terrible experience if personalities and work-styles don't mesh.
+- When the group met, teammates sometimes jockeyed for the leadership position or criticized one another’s ideas.
+- When she talked one on one with members of her study group, the exchanges were friendly and warm. It was only when they gathered as a team that things became fraught.
+- Today, on corporate campuses and within university laboratories, psychologists, sociologists and statisticians are devoting themselves to studying everything from team composition to email patterns in order to figure out how to make employees into faster, better and more productive versions of themselves.
+- Yet many of today’s most valuable firms have come to realize that analyzing and improving individual workers — a practice known as ‘‘employee performance optimization’’ — isn’t enough.
+- The time spent by managers and employees in collaborative activities has ballooned by 50 percent or more over the last two decades and that, at many companies, more than three-quarters of an employee’s day is spent communicating with colleagues.
+- In Silicon Valley, software engineers are encouraged to work together, in part because studies show that groups tend to innovate faster, see mistakes more quickly and find better solutions to problems.
+- Studies also show that people working in teams tend to achieve better results and report higher job satisfaction.
+- In a 2015 study, executives said that profitability increases when workers are persuaded to collaborate more.
+- In the last decade, Google has spent untold millions of dollars measuring nearly every aspect of its employees’ lives.
+- Google’s People Operations department has scrutinized everything from how frequently particular people eat together (the most productive employees tend to build larger networks by rotating dining companions) to which traits the best managers share (unsurprisingly, good communication and avoiding micromanaging is critical; more shocking, this was news to many Google managers).
+- The company’s top executives long believed that building the best teams meant combining the best people.
+- In 2012, the company embarked on an initiative — code-named Project Aristotle — to study hundreds of Google’s teams and figure out why some stumbled while others soared.
+- Project Aristotle’s researchers began by reviewing a half-century of academic studies looking at how teams worked.
+- No matter how researchers arranged the data, though, it was almost impossible to find patterns — or any evidence that the composition of a team made any difference. 
+- We had lots of data, but there was nothing showing that a mix of specific personality types or skills or backgrounds made any difference. The ‘who’ part of the equation didn’t seem to matter.
+- Norms are the traditions, behavioral standards and unwritten rules that govern how we function when we gather: One team may come to a consensus that avoiding disagreement is more valuable than debate; another team might develop a culture that encourages vigorous arguments and spurns groupthink.
+- Norms can be unspoken or openly acknowledged, but their influence is often profound. Team members may behave in certain ways as individuals — they may chafe against authority or prefer working independently — but when they gather, the group’s norms typically override individual proclivities and encourage deference to the team.
+- After looking at over a hundred groups for more than a year, Project Aristotle researchers concluded that understanding and influencing group norms were the keys to improving Google’s teams.
