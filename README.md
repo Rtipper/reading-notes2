@@ -20,6 +20,6 @@
 - [Class 14b Reading Notes](notes-14b.md)
 
 ### Code 301 - *Intermediate Software Development*
-
+- [Class 01 Reading Notes](class-001.md)
 
 ### Code 401 - *Advanced Software Development*
