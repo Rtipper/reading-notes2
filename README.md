@@ -21,5 +21,6 @@
 
 ### Code 301 - *Intermediate Software Development*
 - [Class 01 Reading Notes](class-001.md)
+- [Class 02 Reading Notes](class-002.md)
 
 ### Code 401 - *Advanced Software Development*
