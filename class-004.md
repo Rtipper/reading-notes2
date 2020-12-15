@@ -1,0 +1,24 @@
+# Class 4 Reading Notes - CSS Grid
+
+- When grid-column-start is used alone, the grid item by default will span exactly one column. However, you can extend the item across multiple columns by adding the grid-column-end property.
+- If you want to count grid lines from the right instead of the left, you can give grid-column-start and grid-column-end negative values. For example, you can set it to -1 to specify the first grid line from the right.
+- Typing both grid-column-start and grid-column-end every time can get tiring. Fortunately, grid-column is a shorthand property that can accept both values at once, separated by a slash.
+- One of the things that sets CSS grids apart from flexbox is that you can easily position items in two dimensions: columns and rows. grid-row-start works much like grid-column-start except along the vertical axis.
+- You can also use grid-column and grid-row together to span larger areas within the grid.
+- If typing out both grid-column and grid-row is too much for you, there's yet another shorthand for that. grid-area accepts four values separated by slashes: grid-row-start, grid-column-start, grid-row-end, followed by grid-column-end.
+- If grid items aren't explicitly placed with grid-area, grid-column, grid-row, etc., they are automatically placed according to their order in the source code. 
+- We can override this using the order property, which is one of the advantages of grid over table-based layout.
+- By default, all grid items have an order of 0, but this can be set to any positive or negative value, similar to z-index.
+- Each rule has five values which create five columns, each set to 20% of the overall width of the garden.
+- Specifying a bunch of columns with identical widths can get tedious. Luckily there's a repeat function to help with that.
+- For example, we previously defined five 20% columns with the rule grid-template-columns: 20% 20% 20% 20% 20%;. This can be simplified as grid-template-columns: repeat(5, 20%);
+- Grid also introduces a new unit, the fractional fr. Each fr unit allocates one share of the available space. For example, if two elements are set to 1fr and 3fr respectively, the space is divided into 4 equal shares; the first element occupies 1/4 and the second element 3/4 of any leftover space.
+- When columns are set with pixels, percentages, or ems, any other columns set with fr will divvy up the space that's left over.
+- display: Defines the element as a grid container and establishes a new grid formatting context for its contents (grid / inline-grid).
+- grid-column-start / grid-column-end / grid-row-start / grid-row-end: Determines a grid item’s location within the grid by referring to specific grid lines.
+- grid-template-columns / grid-template-rows: Defines the columns and rows of the grid with a space-separated list of values. 
+- grid-area: Gives an item a name so that it can be referenced by a template created with the grid-template-areas property.
+- grid-template-areas: Defines a grid template by referencing the names of the grid areas which are specified with the grid-area property. 
+- justify-self: Aligns a grid item inside a cell along the inline (row) axis (as opposed to align-self which aligns along the block (column) axis).3
+- grid-template: A shorthand for setting grid-template-rows, grid-template-columns, and grid-template-areas in a single declaration.
+- align-self: Aligns a grid item inside a cell along the block (column) axis (as opposed to justify-self which aligns along the inline (row) axis).
