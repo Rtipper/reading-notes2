@@ -27,5 +27,6 @@
 - [Class 05 Reading Notes](class-005.md)
 - [Class 06 Reading Notes](class-006.md)
 - [Class 07 Reading Notes](class-007.md)
+- [Class 08 Reading Notes](class-008.md)
 
 ### Code 401 - *Advanced Software Development*
