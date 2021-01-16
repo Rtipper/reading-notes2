@@ -42,4 +42,7 @@ console.log('8080 is the magic port');`
 
 - Start up the server with node server.js
 - Much like HTML, EJS is broken up into specifically defined parts, known as "Partials" -- head.ejd, header.ejd and footer.ejs
-
+- We have our partials defined now. All we have to do is include them in our views. Let’s go into index.ejs and about.ejs and use the include syntax to add the partials.
+- Let’s define some basic variables and a list to pass to our home page. Go back into your server.js file and add the following inside your app.get('/') route.
+- To echo a single variable, we just use <%= tagline %>. Let’s add this to our index.ejs file.
+- To loop over our data, we will use .forEach. Let’s add this to our view file.
