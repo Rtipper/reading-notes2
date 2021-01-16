@@ -20,33 +20,33 @@
 - Route setup in the server.js file would look like this:
 `// load the things we need
 var express = require('express');
-var app = express();
+var app = express();`
 
-// set the view engine to ejs
-app.set('view engine', 'ejs');
+`// set the view engine to ejs
+app.set('view engine', 'ejs');`
 
-// use res.render to load up an ejs view file
+`// use res.render to load up an ejs view file`
 
-// index page
+`// index page
 app.get('/', function(req, res) {
     res.render('pages/index');
-});
+});`
 
-// about page
+`// about page
 app.get('/about', function(req, res) {
     res.render('pages/about');
-});
+});`
 
-app.listen(8080);
+`app.listen(8080);
 console.log('8080 is the magic port');`
 
 - Start up the server with node server.js
 - Much like HTML, EJS is broken up into specifically defined parts, known as "Partials" -- head.ejd, header.ejd and footer.ejs
 - Head.ejd ex:
 `<meta charset="UTF-8">
-<title>EJS Is Fun</title>
+<title>EJS Is Fun</title>`
 
-<!-- CSS (load bootstrap from a CDN) -->
+`<!-- CSS (load bootstrap from a CDN) -->
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/twitter-bootstrap/4.5.2/css/bootstrap.min.css">
 <style>
     body { padding-top:50px; }
