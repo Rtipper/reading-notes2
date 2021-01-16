@@ -7,14 +7,14 @@
 - server.js will hold the Express server setup, configuration.
 - The routes for each will also be defined in the server.js file.
 - Heres how this looks in the package.json file:
-{
+`{
   "name": "node-ejs",
   "main": "server.js",
   "dependencies": {
     "ejs": "^3.1.5",
     "express": "^4.17.1"
   }
-}
+}`
 
 - Express and EJS along with the dependices defined above will need to be installed via the terminal (npm install)
 - Route setup in the server.js file would look like this:
