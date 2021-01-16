@@ -30,5 +30,6 @@
 - [Class 08 Reading Notes](class-008.md)
 - [Class 09 Reading Notes](class-009.md)
 - [Class 10 Reading Notes](class-0010.md)
+- [Class 11 Reading Notes](class-0011.md)
 
 ### Code 401 - *Advanced Software Development*
