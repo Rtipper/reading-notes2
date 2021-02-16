@@ -37,3 +37,4 @@
 - [Class 15 Reading Notes](class-0015.md)
 
 ### Code 401 - *Advanced Software Development*
+- [Class 01 Reading Notes](class-0001.md)
