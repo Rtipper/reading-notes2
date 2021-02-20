@@ -5,7 +5,7 @@
 - `.map()` creates an array from calling a specific function on each item in the parent array.
 - In plain english, .map creates an array only after looking at its parent array and the items within it.
 - It can have a wide variety of uses when working with arrays.
-- Ex:
+- Ex: <br>
 // create a function to use
 ` const makeSweeter = sweetItem => sweetItem * 2; `
 
