@@ -38,3 +38,4 @@
 
 ### Code 401 - *Advanced Software Development*
 - [Class 01 Reading Notes](class-0001.md)
+- [Class 02 Reading Notes](class-0002.md)
