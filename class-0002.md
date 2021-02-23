@@ -47,3 +47,4 @@
 - https://swagger.io/docs/specification/2-0/what-is-swagger/
 - https://apidocjs.com/
 - https://stackify.com/soap-vs-rest/
+- https://rapidapi.com/blog/put-vs-patch/
