@@ -30,10 +30,7 @@
 
 
 ### REFS
-- https://stackoverflow.com/questions/58925276/what-is-the-difference-between-a-route-handler-and-middleware-function-in-expres#:~:text=They%20are%20not%20middleware%20functions,the%20only%20one%20callback%20function.
-- 
-- 
-- 
+- https://stackoverflow.com/questions/58925276/what-is-the-difference-between-a-route-handler-and-middleware-function-in-expres#:~:text=They%20are%20not%20middleware%20functions,the%20only%20one%20callback%20function
 - https://en.wikipedia.org/wiki/Middleware
 - https://docs.microsoft.com/en-us/previous-versions/iis/6.0-sdk/ms524948(v=vs.90)
 - https://en.wikipedia.org/wiki/Test-driven_development
