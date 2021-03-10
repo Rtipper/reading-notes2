@@ -41,3 +41,4 @@
 - [Class 02 Reading Notes](class-0002.md)
 - [Class 03 Reading Notes](class-0003.md)
 - [Class 04 Reading Notes](class-0004.md)
+- [Class 06 Reading Notes](class-0006.md)
