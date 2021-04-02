@@ -45,3 +45,4 @@
 - [Class 07 Reading Notes](class-0007.md)
 - [Class 08 Reading Notes](class-0008.md)
 - [Class 11 Reading Notes](class-00011.md)
+- [Class 12 Reading Notes](class-00012.md)
