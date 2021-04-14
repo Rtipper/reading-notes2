@@ -48,3 +48,4 @@
 - [Class 12 Reading Notes](class-00012.md)
 - [Class 13 Reading Notes](class-00013.md)
 - [Class 14 Reading Notes](class-00014.md)
+- [Class 16 Reading Notes](class-00016.md)
