@@ -51,3 +51,4 @@
 - [Class 16 Reading Notes](class-00016.md)
 - [Class 17 Reading Notes](class-00017.md)
 - [Class 18 Reading Notes](class-00018.md)
+- [Class 19 Reading Notes](class-00018.md)
