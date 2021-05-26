@@ -56,4 +56,4 @@
 - [Class 27 Reading Notes](class-00027.md)
 - [Class 28 Reading Notes](class-00028.md)
 - [Class 29 Reading Notes](class-00029.md)
-- [Class 30 Reading Notes](class-00030.md)
+- [Class 31 Reading Notes](class-00031.md)
