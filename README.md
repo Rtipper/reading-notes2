@@ -61,3 +61,4 @@
 - [Class 33 Reading Notes](class-00033.md)
 - [Class 34 Reading Notes](class-00034.md)
 - [Class 36 Reading Notes](class-00036.md)
+- [Class 37 Reading Notes](class-00037.md)
