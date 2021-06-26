@@ -62,5 +62,6 @@
 - [Class 34 Reading Notes](class-00034.md)
 - [Class 36 Reading Notes](class-00036.md)
 - [Class 37 Reading Notes](class-00037.md)
-
+- [Class 38 Reading Notes](class-00038.md)
+<br>
 - [DS&A Interview Notes and Refs](dsanotes.md)
