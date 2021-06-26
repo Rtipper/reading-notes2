@@ -8,3 +8,11 @@
 - https://medium.com/@omergoldberg/algorithms-in-js-making-change-bc5dec257e97
 - https://kganser.com/change.html
 
+
+
+
+Big O 
+- https://en.wikipedia.org/wiki/Big_O_notation
+- https://justin.abrah.ms/computer-science/big-o-notation-explained.html
+- https://rob-bell.net/2009/06/a-beginners-guide-to-big-o-notation
+- https://www.freecodecamp.org/news/all-you-need-to-know-about-big-o-notation-to-crack-your-next-coding-interview-9d575e7eec4/
