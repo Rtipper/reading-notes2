@@ -12,6 +12,7 @@ STUDY GUIDE FOR WHITEBOARD FINAL
 ###### REFS:
 - https://shareablecode.com/snippets/validate-binary-search-tree-javascript-solution-NaDs-AmBQ
 - https://dev.to/akhilpokle/validate-a-binary-search-tree-1l1a
+- https://perezchristian1012.medium.com/leetcode-js-algo-problem-validate-binary-search-tree-af82f547797d
 
 ###### QUESTIONS/EDGECASES FOR INTERVIEW:
 - Should I assume the values of the tree are provided and that it's balanced? Or do I need to also create the tree and node classes?
