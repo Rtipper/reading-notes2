@@ -23,3 +23,4 @@ STUDY GUIDE FOR WHITEBOARD FINAL
 - Validate the tree has a single node at its root
 
 ###### IMG EX.
+![IMG](VALBST.PNG)
