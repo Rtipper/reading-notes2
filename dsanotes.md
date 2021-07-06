@@ -11,6 +11,11 @@
 <br>
 <br>
 <br>
+Validate BST: https://dev.to/akhilpokle/validate-a-binary-search-tree-1l1a
+<br>
+<br>
+<br>
+<br>
 ##### Big O 
 - https://en.wikipedia.org/wiki/Big_O_notation
 - https://justin.abrah.ms/computer-science/big-o-notation-explained.html
