@@ -64,4 +64,5 @@
 - [Class 37 Reading Notes](class-00037.md)
 - [Class 38 Reading Notes](class-00038.md)
 - [Class 39 Reading Notes](class-00039.md)
+- [Class 41 Reading Notes](class-00041.md)
 - [DS&A Interview Notes and Refs](dsanotes.md)
