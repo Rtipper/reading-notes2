@@ -10,6 +10,7 @@ STUDY GUIDE FOR WHITEBOARD FINAL
 ### VALIDATE A BST
 
 ###### REFS:
+- https://shareablecode.com/snippets/validate-binary-search-tree-javascript-solution-NaDs-AmBQ
 - https://dev.to/akhilpokle/validate-a-binary-search-tree-1l1a
 
 ###### QUESTIONS/EDGECASES FOR INTERVIEW:
