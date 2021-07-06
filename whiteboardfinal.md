@@ -13,7 +13,7 @@ STUDY GUIDE FOR WHITEBOARD FINAL
 - https://dev.to/akhilpokle/validate-a-binary-search-tree-1l1a
 
 ###### QUESTIONS/EDGECASES FOR INTERVIEW:
-- Should I assume the values of the tree are provided and that it's balanced?
+- Should I assume the values of the tree are provided and that it's balanced? Or do I need to also create the tree class?
 - Do you prefer if I attempt this as iterative or recursive? Does it matter?
 
 ###### TESTING IDEAS: 
