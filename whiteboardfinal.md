@@ -10,6 +10,8 @@ STUDY GUIDE FOR WHITEBOARD FINAL
 ###### REFS:
 - https://medium.com/journey-to-becoming-an-algoat/closest-value-in-a-bst-with-recursion-16bf90ad3bc2
 
+###### IMG EX.
+![IMG](NEARNEIGHBOR.PNG)
 
 ### VALIDATE A BST
 
