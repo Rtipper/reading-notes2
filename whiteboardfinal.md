@@ -2,11 +2,20 @@ STUDY GUIDE FOR WHITEBOARD FINAL
 
 ### LL ODOMETER
 
+###### REFS:
+- https://www.geeksforgeeks.org/add-1-number-represented-linked-list/
+
+
+
+<br>
+<br>
 ### NEAREST NEIGHBOR
 
+###### REFS:
+- https://medium.com/journey-to-becoming-an-algoat/closest-value-in-a-bst-with-recursion-16bf90ad3bc2
 
-
-
+<br>
+<br>
 ### VALIDATE A BST
 
 ###### REFS:
