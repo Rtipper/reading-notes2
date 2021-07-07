@@ -1,11 +1,11 @@
 STUDY GUIDE FOR WHITEBOARD FINAL
 
-### LL ODOMETER
+## LL ODOMETER
 
 ###### REFS:
 - https://www.geeksforgeeks.org/add-1-number-represented-linked-list/
 
-### NEAREST NEIGHBOR
+## NEAREST NEIGHBOR
 
 ###### REFS:
 - https://medium.com/journey-to-becoming-an-algoat/closest-value-in-a-bst-with-recursion-16bf90ad3bc2
@@ -13,7 +13,7 @@ STUDY GUIDE FOR WHITEBOARD FINAL
 ###### IMG EX.
 ![IMG](NEARNEIGHBOR.PNG)
 
-### VALIDATE A BST
+## VALIDATE A BST
 
 ###### REFS:
 - https://shareablecode.com/snippets/validate-binary-search-tree-javascript-solution-NaDs-AmBQ
